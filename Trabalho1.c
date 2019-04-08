@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Mateus Ferreira Gomes
+
+Trabalho 1 - ICC2
+*/
+
 int main(){
 	
 	unsigned char analise[512]; //sequencia de bytes que serao analisados para procurar por uma imagem
